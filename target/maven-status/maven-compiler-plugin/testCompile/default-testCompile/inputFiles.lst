@@ -1,0 +1,8 @@
+/Users/shikhasingh/selenium-lms/src/test/java/base/BaseTest.java
+/Users/shikhasingh/selenium-lms/src/test/java/tests/EmptyPasswordTest.java
+/Users/shikhasingh/selenium-lms/src/test/java/tests/EmptyUsernameTest.java
+/Users/shikhasingh/selenium-lms/src/test/java/tests/GetBooksApiTest.java
+/Users/shikhasingh/selenium-lms/src/test/java/tests/InvalidLoginTest.java
+/Users/shikhasingh/selenium-lms/src/test/java/tests/LoginPageTest.java
+/Users/shikhasingh/selenium-lms/src/test/java/tests/RegisterNavigationTest.java
+/Users/shikhasingh/selenium-lms/src/test/java/tests/ValidLoginTest.java
