@@ -1,6 +1,16 @@
+<<<<<<< HEAD
 tests/TC04_InvalidLoginTest.class
 tests/TC02_RegisterUserTest.class
 tests/TC03_ValidLoginTest.class
 tests/TC05_AddBookTest.class
 tests/TC06_IssueBookTest.class
 tests/TC01_GetBooksTest.class
+=======
+tests/LoginPageTest.class
+tests/InvalidLoginTest.class
+tests/EmptyPasswordTest.class
+tests/EmptyUsernameTest.class
+tests/ValidLoginTest.class
+base/BaseTest.class
+tests/RegisterNavigationTest.class
+>>>>>>> 491517ed48149dbf3c5182f41f899d54d9719b88

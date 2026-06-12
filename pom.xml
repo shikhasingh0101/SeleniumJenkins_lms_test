@@ -3,7 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lms</groupId>
+<<<<<<< HEAD
     <artifactId>selenium-lms</artifactId>
+=======
+    <artifactId>lms-automation</artifactId>
+>>>>>>> 491517ed48149dbf3c5182f41f899d54d9719b88
     <version>1.0</version>
 
     <dependencies>
@@ -11,18 +15,33 @@
         <dependency>
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-java</artifactId>
+<<<<<<< HEAD
             <version>4.21.0</version>
+=======
+            <version>4.33.0</version>
+>>>>>>> 491517ed48149dbf3c5182f41f899d54d9719b88
         </dependency>
 
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
+<<<<<<< HEAD
             <version>7.10.2</version>
             <scope>test</scope>
+=======
+            <version>7.11.0</version>
+        </dependency>
+
+        <dependency>
+            <groupId>io.github.bonigarcia</groupId>
+            <artifactId>webdrivermanager</artifactId>
+            <version>6.1.0</version>
+>>>>>>> 491517ed48149dbf3c5182f41f899d54d9719b88
         </dependency>
 
     </dependencies>
 
+<<<<<<< HEAD
     <build>
         <plugins>
 
@@ -42,4 +61,6 @@
         </plugins>
     </build>
 
+=======
+>>>>>>> 491517ed48149dbf3c5182f41f899d54d9719b88
 </project>
