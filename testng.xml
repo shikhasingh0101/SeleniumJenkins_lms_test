@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="LMSSuite">
+
+<test name="Tests">
+
+<classes>
+
+<class name="tests.LoginPageTest"/>
+<class name="tests.ValidLoginTest"/>
+<class name="tests.InvalidLoginTest"/>
+<class name="tests.EmptyUsernameTest"/>
+<class name="tests.EmptyPasswordTest"/>
+<class name="tests.RegisterNavigationTest"/>
+
+</classes>
+
+</test>
+
+</suite>

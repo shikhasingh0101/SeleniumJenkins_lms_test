@@ -1,0 +1,7 @@
+tests/LoginPageTest.class
+tests/InvalidLoginTest.class
+tests/EmptyPasswordTest.class
+tests/EmptyUsernameTest.class
+tests/ValidLoginTest.class
+base/BaseTest.class
+tests/RegisterNavigationTest.class
