@@ -1,0 +1,6 @@
+/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC01_GetBooksTest.java
+/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC02_RegisterUserTest.java
+/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC03_ValidLoginTest.java
+/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC04_InvalidLoginTest.java
+/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC05_AddBookTest.java
+/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC06_IssueBookTest.java
