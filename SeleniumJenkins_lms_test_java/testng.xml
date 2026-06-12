@@ -1,0 +1,20 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="LMS Suite">
+
+    <test name="LMS Tests">
+
+        <classes>
+
+            <class name="tests.TC01_GetBooksTest"/>
+            <class name="tests.TC02_RegisterUserTest"/>
+            <class name="tests.TC03_ValidLoginTest"/>
+            <class name="tests.TC04_InvalidLoginTest"/>
+            <class name="tests.TC05_AddBookTest"/>
+            <class name="tests.TC06_IssueBookTest"/>
+            
+        </classes>
+
+    </test>
+
+</suite>

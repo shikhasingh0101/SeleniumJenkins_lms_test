@@ -1,0 +1,6 @@
+tests/TC04_InvalidLoginTest.class
+tests/TC02_RegisterUserTest.class
+tests/TC03_ValidLoginTest.class
+tests/TC05_AddBookTest.class
+tests/TC06_IssueBookTest.class
+tests/TC01_GetBooksTest.class
