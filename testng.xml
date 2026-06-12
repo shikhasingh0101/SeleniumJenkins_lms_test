@@ -1,5 +1,9 @@
 <!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
 
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> 2fe769d984321683612050460013537e9251538d
 <suite name="LMS Suite">
 
     <test name="LMS Tests">
@@ -16,5 +20,26 @@
         </classes>
 
     </test>
+<<<<<<< HEAD
+=======
+=======
+<suite name="LMSSuite">
+
+<test name="Tests">
+
+<classes>
+
+<class name="tests.LoginPageTest"/>
+<class name="tests.ValidLoginTest"/>
+<class name="tests.InvalidLoginTest"/>
+<class name="tests.EmptyUsernameTest"/>
+<class name="tests.EmptyPasswordTest"/>
+<class name="tests.RegisterNavigationTest"/>
+
+</classes>
+
+</test>
+>>>>>>> 491517ed48149dbf3c5182f41f899d54d9719b88
+>>>>>>> 2fe769d984321683612050460013537e9251538d
 
 </suite>
