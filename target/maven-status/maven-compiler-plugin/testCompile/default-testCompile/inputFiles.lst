@@ -1,23 +1,6 @@
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 2fe769d984321683612050460013537e9251538d
-/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC01_GetBooksTest.java
-/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC02_RegisterUserTest.java
-/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC03_ValidLoginTest.java
-/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC04_InvalidLoginTest.java
-/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC05_AddBookTest.java
-/Users/shikhasingh/Desktop/shikha_25_lms_app/SeleniumJenkins_lms_test_java/src/test/java/tests/TC06_IssueBookTest.java
-<<<<<<< HEAD
-=======
-=======
-/Users/shikhasingh/selenium-lms/src/test/java/base/BaseTest.java
-/Users/shikhasingh/selenium-lms/src/test/java/tests/EmptyPasswordTest.java
-/Users/shikhasingh/selenium-lms/src/test/java/tests/EmptyUsernameTest.java
-/Users/shikhasingh/selenium-lms/src/test/java/tests/GetBooksApiTest.java
-/Users/shikhasingh/selenium-lms/src/test/java/tests/InvalidLoginTest.java
-/Users/shikhasingh/selenium-lms/src/test/java/tests/LoginPageTest.java
-/Users/shikhasingh/selenium-lms/src/test/java/tests/RegisterNavigationTest.java
-/Users/shikhasingh/selenium-lms/src/test/java/tests/ValidLoginTest.java
->>>>>>> 491517ed48149dbf3c5182f41f899d54d9719b88
->>>>>>> 2fe769d984321683612050460013537e9251538d
+/Users/shikhasingh/Desktop/SeleniumJenkins_lms_test_java/src/test/java/tests/TC01_GetBooksTest.java
+/Users/shikhasingh/Desktop/SeleniumJenkins_lms_test_java/src/test/java/tests/TC02_RegisterUserTest.java
+/Users/shikhasingh/Desktop/SeleniumJenkins_lms_test_java/src/test/java/tests/TC03_ValidLoginTest.java
+/Users/shikhasingh/Desktop/SeleniumJenkins_lms_test_java/src/test/java/tests/TC04_InvalidLoginTest.java
+/Users/shikhasingh/Desktop/SeleniumJenkins_lms_test_java/src/test/java/tests/TC05_AddBookTest.java
+/Users/shikhasingh/Desktop/SeleniumJenkins_lms_test_java/src/test/java/tests/TC06_IssueBookTest.java
